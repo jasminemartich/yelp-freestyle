@@ -1,0 +1,16 @@
+##Install requests
+requests
+
+##Install json
+jq
+
+##Install yelp
+yelpapi
+
+##Install flask
+flask
+
+##Install dotenv
+python-dotenv
+
+gunicorn
